@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
+- [AJ]
 - [priya]
 - [sevonefive]
 - [sigmund](https://siggymc.deviantart.com)
